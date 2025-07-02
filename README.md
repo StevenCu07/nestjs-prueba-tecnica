@@ -18,8 +18,7 @@ Este proyecto es parte de una prueba técnica cuyo objetivo es demostrar el domi
 
 1. Clonar el repositorio:
    ```bash
-   git clone <REPO_URL>
-   cd <carpeta_del_proyecto>
+   git clone https://github.com/StevenCu07/nestjs-prueba-tecnica.git
    ```
 
 2. Instalar dependencias:
