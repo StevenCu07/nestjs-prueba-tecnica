@@ -62,7 +62,7 @@ src/
 ### Usuario
 
 - `POST /users`  
-  Crear un nuevo usuario  
+  Crear un nuevo usuario
   ```json
   {
     "name": "Brandon",
@@ -78,7 +78,7 @@ src/
 ### Mensajes
 
 - `POST /messages`  
-  Crear un mensaje asociado a un usuario  
+  Crear un mensaje asociado a un usuario
   ```json
   {
     "content": "Hola mundo",
@@ -109,14 +109,8 @@ http://localhost:3000/api
 
 ## 📁 Variables de entorno
 
-Ver `.env.example`.
-
-Puedes usar entornos separados con:
-
-```bash
-NODE_ENV=development npm run start
-NODE_ENV=production  npm run start
-```
+Ver `.env.example`.  
+Define tus credenciales de base de datos y configuración básica en el archivo `.env`.
 
 ---
 
